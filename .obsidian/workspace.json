@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2726d79271ce19a2",
+        "id": "1cadbd634b360030",
         "type": "tabs",
         "children": [
           {
-            "id": "045a1116b13271f8",
+            "id": "29f436d6a5a924bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile_development/Flutter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Flutter"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "right": {
     "id": "87c614fcb4a91f9f",
@@ -162,13 +158,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "045a1116b13271f8",
+  "active": "29f436d6a5a924bc",
   "lastOpenFiles": [
+    "Mobile_development/Мобильная разработка.md",
+    "Mobile_development/Dart.md",
+    "Mobile_development/База знаний/Dart/Переменные.md",
+    "Mobile_development/База знаний/Dart/Обработка исключений.md",
+    "Mobile_development/База знаний/Dart/Классы/Классы. Дженерики (Шаблоны).md",
+    "Mobile_development/База знаний/Dart/Классы/Классы. Свойства и методы. static.md",
+    "Mobile_development/База знаний/Dart/Классы/Классы. Наследование & enum.md",
+    "Mobile_development/База знаний/Dart/Классы/Классы. База.md",
+    "Mobile_development/База знаний/Dart/Циклы.md",
+    "Mobile_development/База знаний/Dart/Коллекции. Списки.md",
+    "Mobile_development/База знаний/Dart/Функции и операторы сравнения.md",
+    "Mobile_development/Flutter.md",
+    "Mobile_development/База знаний/Dart/Классы/Классы.md",
+    "Mobile_development/База знаний/Dart/Классы/Классы. Расширения.md",
+    "Mobile_development/База знаний/Dart/Асинхронность.md",
+    "Mobile_development/Без названия.md",
+    "Mobile_development/База знаний/Dart/Классы",
     "Mobile_development/База знаний/Flutter/Начало.md",
     "Mobile_development/База знаний/Flutter/Основы вёрстки.md",
-    "Mobile_development/База знаний/Flutter/Установка Flutter.md",
-    "Mobile_development/Flutter.md",
-    "Mobile_development/Мобильная разработка.md",
-    "Mobile_development/Без названия.md"
+    "Mobile_development/База знаний/Flutter/Установка Flutter.md"
   ]
 }
