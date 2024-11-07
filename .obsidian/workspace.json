@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Начало"
             }
+          },
+          {
+            "id": "2944563e6d1bd4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobile_development/База знаний/Flutter/Основы вёрстки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы вёрстки"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile_development/База знаний/Flutter/Начало.md",
+                "file": "Mobile_development/База знаний/Flutter/Основы вёрстки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Начало"
+              "title": "Обратные ссылки для Основы вёрстки"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile_development/База знаний/Flutter/Начало.md",
+                "file": "Mobile_development/База знаний/Flutter/Основы вёрстки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Начало"
+              "title": "Исходящие ссылки из Основы вёрстки"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile_development/База знаний/Flutter/Начало.md"
+                "file": "Mobile_development/База знаний/Flutter/Основы вёрстки.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Начало"
+              "title": "Структура Основы вёрстки"
             }
           }
         ]
@@ -162,8 +177,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "045a1116b13271f8",
+  "active": "2944563e6d1bd4d5",
   "lastOpenFiles": [
+    "Mobile_development/База знаний/Flutter/Начало.md",
+    "Mobile_development/База знаний/Flutter/Основы вёрстки.md",
+    "Mobile_development/База знаний/Flutter/Установка Flutter.md",
     "Mobile_development/Flutter.md",
     "Mobile_development/Мобильная разработка.md",
     "Mobile_development/Без названия.md"
